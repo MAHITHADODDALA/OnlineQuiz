@@ -1,0 +1,150 @@
+C:\Users\RAVI\Documents\Visual Studio 2010\Projects\ONLINEQUIZ\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Documents\Visual Studio 2010\Projects\ONLINEQUIZ\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Documents\Visual Studio 2010\Projects\ONLINEQUIZ\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Documents\Visual Studio 2010\Projects\ONLINEQUIZ\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Documents\Visual Studio 2010\Projects\ONLINEQUIZ\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+G:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+G:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+G:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+G:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+G:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\AjaxControlToolkit.pdb
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\ar\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\cs\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\de\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\es\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\fr\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\he\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\hi\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\it\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\ja\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\ko\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\nl\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\pt\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\ru\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\online exam n-tier\ONLINEQUIZ  on 12 dec n-tier\ONLINEQUIZ\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 13 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 13 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 13 dec n-tier\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 13 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 13 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\online exam n-tier\ONLINEQUIZ  on 20 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\online exam n-tier\ONLINEQUIZ  on 20 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\online exam n-tier\ONLINEQUIZ  on 20 dec n-tier\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\online exam n-tier\ONLINEQUIZ  on 20 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\online exam n-tier\ONLINEQUIZ  on 20 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on 26 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on 26 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on 26 dec n-tier\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on 26 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on 26 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 28 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 28 dec n-tier\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 28 dec n-tier\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 28 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 28 dec n-tier\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 31 dec n-tier hod with prev\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 31 dec n-tier hod with prev\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 31 dec n-tier hod with prev\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 31 dec n-tier hod with prev\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 31 dec n-tier hod with prev\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 2 JAN n-tier hod with prev\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 2 JAN n-tier hod with prev\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 2 JAN n-tier hod with prev\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 2 JAN n-tier hod with prev\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 2 JAN n-tier hod with prev\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\AjaxControlToolkit.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 8 Jan final\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\AjaxControlToolkit.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 15 Jan\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\AjaxControlToolkit.pdb
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\ONLINEQUIZ  on 16 Jan\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\ONLINEQUIZ.pdb
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\AjaxControlToolkit.pdb
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.dll
+C:\Users\RAVI\Desktop\FOLDERS\online exam n-tier\ONLINEQUIZ  on IT Jan\ONLINEQUIZ\obj\Debug\ONLINEQUIZ.pdb

@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Faculty.master.cs" Inherits="ONLINEQUIZ.PL.Faculty.Faculty" %>
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            height: 146px;
+        }
+    </style>
+</head>
+<body background="../../IMAGES/Presentation1.jpg">
+    <form id="form1" runat="server">
+    <div>
+        <table cellpadding="0" cellspacing="0" class="style1">
+            <tr>
+                <td bgcolor="Black" height="19" width="100%" align="center">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td height="35" width="100%">
+              
+                    <asp:Menu ID="Menu1" runat="server" BackColor="#5FA0FE" 
+                        DynamicHorizontalOffset="7" Font-Names="Verdana" Font-Size="0.8em" 
+                        ForeColor="Black" Orientation="Horizontal" StaticSubMenuIndent="7px" 
+                        Width="100%" BorderColor="Black" BorderStyle="Solid" DisappearAfter="200" 
+                        Font-Bold="True" onmenuitemclick="Menu1_MenuItemClick">
+                        <DynamicHoverStyle BackColor="#666666" ForeColor="White" />
+                        <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                        <DynamicMenuStyle BackColor="#E3EAEB" />
+                        <DynamicSelectedStyle BackColor="#1C5E55" />
+                        <Items>
+                            <asp:MenuItem NavigateUrl="~/PL/Faculty/FacultySPage.aspx" Text="Faculty Home" 
+                                Value="Faculty Home"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PL/Faculty/FacultyAQP.aspx" Text="Add Questions" 
+                                Value="Add Questions"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PL/Faculty/FacultyCP.aspx" Text="Change Password" 
+                                Value="Change Password"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PL/Faculty/FacultyDSR.aspx" 
+                                Text="Delete Student Result" Value="Delete Student Result"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PL/Faculty/FacultyENofQ.aspx" 
+                                Text="Set No. Questions" Value="Set No. Questions"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PL/Faculty/FacultyIEDQP.aspx" 
+                                Text="Add,Edit,Delete Question" Value="Add,Edit,Delete Question">
+                            </asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PL/Faculty/FacultyVQP.aspx" 
+                                Text="View Question Paper" Value="View Question Paper"></asp:MenuItem>
+                            <asp:MenuItem NavigateUrl="~/PL/Faculty/FacultyVR.aspx" Text="View Result" 
+                                Value="View Result"></asp:MenuItem>
+                        </Items>
+                        <StaticHoverStyle BackColor="#666666" ForeColor="White" />
+                        <StaticMenuItemStyle Font-Size="Small" HorizontalPadding="8px" 
+                            VerticalPadding="8px" />
+                        <StaticMenuStyle HorizontalPadding="20px" VerticalPadding="10px" />
+                        <StaticSelectedStyle BackColor="#1C5E55" />
+                    </asp:Menu>
+                </td>
+            </tr>
+            <tr>
+                <td>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <asp:LinkButton ID="LinkButton1" runat="server" onclick="LinkButton1_Click">Contact Us</asp:LinkButton>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,50 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Student.master.cs" Inherits="ONLINEQUIZ.PL.Student.Student" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1 {
+            width: 100%;
+        }
+    </style>
+    <script src="../../JS/JSNoBack.js" type="text/javascript"></script>
+  
+</head>
+<body onload="nb()" background="../../IMAGES/Presentation1.jpg">
+    <form id="form1" runat="server">
+    <div>
+        <table cellpadding="0" cellspacing="0" class="style1">
+            <tr>
+                <td bgcolor="Black" height="19">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td bgcolor="Black" height="19">
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td height="19" align="center">
+                    <asp:LinkButton ID="LinkButton1" runat="server" onclick="LinkButton1_Click">Contact Us</asp:LinkButton>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>

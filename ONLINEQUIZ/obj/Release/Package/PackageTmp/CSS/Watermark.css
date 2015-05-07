@@ -1,0 +1,18 @@
+﻿body {
+}
+
+
+
+
+.watermark
+{
+	color: #C0C0C0;
+	font-family: 'Monotype Corsiva';
+}
+
+.Panel
+{
+	width:50%;
+	background-color:#FFFFCC;
+	height: 500px;
+}
